@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Práctica de CSS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Background color y bordes radius</h1>
+    <hr>
+    <div class="ejercicio">
+        <h1>EJ1</h1>
+    </div>
+    <div class="cuadrito">
+        <h2>Bienvenidos a los Ejercicios de CSS</h2>
+        <h3>Vamos a aprender a cambiar colores con CSS</h3>
+    </div>
+</body>
+</html>
