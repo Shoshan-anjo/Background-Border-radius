@@ -1,0 +1,21 @@
+body {
+   background-color: #f04d4d;
+    color: white;
+}
+h3{
+    color: rgb(179, 162, 162);
+}
+h2 {
+    color: greenyellow;
+    margin-bottom: 20px;
+}
+.cuadrito {
+    border-radius: 20px;
+    padding: 20px;
+    background-color: gray;
+}
+ 
+
+
+
+
